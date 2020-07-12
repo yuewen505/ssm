@@ -11,11 +11,11 @@
 <script type="text/javascript" src="${pageContext.servletContext.contextPath }/js/jquery-1.8.2.min.js"></script>
 <html>
 <head>
-    <title>Title</title>
+    <title>ssm整合</title>
 </head>
 <body>
 
-    <h3>查询所有的帐户</h3>
+    <h2 align="center">查询所有的帐户</h2>
 
 <%--    <c:forEach items="${list}" var="account">--%>
 <%--        ${account.name}--%>
